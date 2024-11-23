@@ -3,7 +3,7 @@
 <html>
     <head>
         <title>
-            Welcome
+            Welcome silu
         </title>
     </head>
     <body bgcolor = "silver">
@@ -23,8 +23,6 @@
         Gender : <input type = "radio" name = "x">Male</input>
         <input type = "radio" name = "x">Female</input>
         <input type = "radio" name = "x">Other</input><br>
-        
-        <br>
         branch : <select >
             <option>MCA</option>
             <option>BCA</option>
